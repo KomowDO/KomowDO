@@ -5,8 +5,9 @@
 ---
 
 ### Tentang Saya
+- 💼 Saat ini **Mobile Developer Intern** di **Orbit Universe**
+- 🏢 Eks **Mobile & Frontend Developer Intern** di **Diskominfo Kota Tangerang**
 - 🎓 Lulusan D3 Teknik Informatika — **Politeknik Elektronika Negeri Surabaya (PENS)**
-- 💼 Eks **Mobile & Frontend Developer Intern** di **Diskominfo Kota Tangerang**
 - 📍 Berdomisili di **Surabaya, Indonesia**
 
 ### Tech Stack
