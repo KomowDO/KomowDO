@@ -54,6 +54,10 @@
 - **Junior Network Administrator** — BNSP
 - **Memulai Pemrograman dengan Kotlin** — Dicoding Indonesia
 
+### Statistik GitHub
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomowDO&layout=compact&langs_count=6)
+
 ### Kontak
 - 📧 Email: [arief.bogaro@gmail.com](mailto:arief.bogaro@gmail.com)
 - 💻 GitHub: [github.com/KomowDO](https://github.com/KomowDO)
