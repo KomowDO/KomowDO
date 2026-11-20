@@ -44,6 +44,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Proyek Pilihan
+- **Aplikasi Absensi / HRIS** *(Private — Internal Orbit Universe)* — Pengembangan aplikasi mobile untuk kebutuhan presensi dan manajemen SDM internal.
 - **Smart Aquarium (Automated Adaptive Water Change)** — Aplikasi Flutter + IoT (ESP32, MQTT, WebSocket) & backend Node.js, Express.js, MongoDB, dan Redis untuk pemantauan kualitas air serta otomatisasi penggantian air secara real-time.
 - **Pangkas (RT/RW) & Paten (THL)** — Aplikasi mobile Flutter untuk manajemen internal Diskominfo Kota Tangerang dengan integrasi REST API, Provider, dan Dio.
 - [**Portal Web Dinas Kesehatan Kota Tangerang**](https://github.com/KomowDO/DINKES) — Antarmuka portal informasi kesehatan daerah menggunakan React & TypeScript dari desain Figma.
