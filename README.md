@@ -8,7 +8,6 @@
 - 🎓 Lulusan D3 Teknik Informatika — **Politeknik Elektronika Negeri Surabaya (PENS)**
 - 💼 Eks **Mobile & Frontend Developer Intern** di **Diskominfo Kota Tangerang**
 - 📍 Berdomisili di **Surabaya, Indonesia**
-- 📜 Tersertifikasi **AWS Academy Cloud Foundations** & **Junior Network Administrator (BNSP)**
 
 ### Tech Stack
 
@@ -49,6 +48,11 @@
 - [**Portal Web Dinas Kesehatan Kota Tangerang**](https://github.com/KomowDO/DINKES) — Antarmuka portal informasi kesehatan daerah menggunakan React & TypeScript dari desain Figma.
 - **Woreps** — Aplikasi workout berbasis Flutter dengan fitur pengingat jadwal olahraga (*Awesome Notifications*).
 - [**Web-Porto-Arief**](https://github.com/KomowDO/Web-Porto-Arief) — Website portofolio pribadi menggunakan TypeScript.
+
+### Sertifikasi
+- **AWS Academy Cloud Foundations** — Amazon Web Services
+- **Junior Network Administrator** — BNSP
+- **Memulai Pemrograman dengan Kotlin** — Dicoding Indonesia
 
 ### Kontak
 - 📧 Email: [arief.bogaro@gmail.com](mailto:arief.bogaro@gmail.com)
